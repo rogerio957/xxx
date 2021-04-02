@@ -1,0 +1,38 @@
+
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="24/7 RED TRAFFIC",Big Ass
+http://live.redtraffic.xyz/bigass.m3u8?fluxuslust.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="24/7 RED TRAFFIC",Big Dick
+http://live.redtraffic.xyz/bigdick.m3u8?fluxuslust.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="24/7 RED TRAFFIC",Big Tits
+http://live.redtraffic.xyz/bigtits.m3u8?fluxuslust.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="24/7 RED TRAFFIC",Blowjob
+http://live.redtraffic.xyz/blowjob.m3u8?fluxuslust.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="24/7 RED TRAFFIC",Cuckold
+http://live.redtraffic.xyz/cuckold.m3u8?fluxuslust.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="24/7 RED TRAFFIC",Fetish
+http://live.redtraffic.xyz/fetish.m3u8?fluxuslust.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="24/7 RED TRAFFIC",Hardcore
+http://live.redtraffic.xyz/hardcore.m3u8?fluxuslust.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="24/7 RED TRAFFIC",Interracial
+http://live.redtraffic.xyz/interracial.m3u8?fluxuslust.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="24/7 RED TRAFFIC",Latina
+http://live.redtraffic.xyz/latina.m3u8?fluxuslust.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="24/7 RED TRAFFIC",Lesbian
+http://live.redtraffic.xyz/lesbian.m3u8?fluxuslust.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="24/7 RED TRAFFIC",MILF
+http://live.redtraffic.xyz/milf.m3u8?fluxuslust.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="24/7 RED TRAFFIC",POV
+http://live.redtraffic.xyz/pov.m3u8?fluxuslust.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="24/7 RED TRAFFIC",Pornstar
+http://live.redtraffic.xyz/pornstar.m3u8?fluxuslust.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="24/7 RED TRAFFIC",Russian
+http://live.redtraffic.xyz/russian.m3u8?fluxuslust.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="24/7 RED TRAFFIC",Teen
+http://live.redtraffic.xyz/teen.m3u8?fluxuslust.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="24/7 RED TRAFFIC",Threesome
+http://live.redtraffic.xyz/threesome.m3u8?fluxuslust.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Unsorted;XXX",AST TV 1
+http://www.ast.tv/stream/1/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Unsorted;XXX",AST TV 2 (Opt-2)
